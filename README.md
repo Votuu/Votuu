@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Votuu/Votuu/main/.assets/banner.PNG)
+![Logo](./.assets/banner.PNG)
 
 
 # Votuu Github
