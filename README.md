@@ -1,4 +1,4 @@
-### Hi there 👋
+![Logo](https://raw.githubusercontent.com/Votuu/Plots/main/.assets/banner.png?token=GHSAT0AAAAAABU5EPL4HBECJQVPZ2ZA34Z2YWEFUPQ)
 
 <!--
 **Votuu/Votuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
